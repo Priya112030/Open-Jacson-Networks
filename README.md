@@ -24,7 +24,7 @@ Visual components and Python
 
 
 ## Program:
-```
+
 ```
 Developed by : Priya.B
 Register number : 24900803
@@ -68,7 +68,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
-```
+
 
 ## Output
 ![Screenshot 2024-12-18 135504](https://github.com/user-attachments/assets/0fb69ab4-9082-4c62-9a0a-a83db1b07cd9)
